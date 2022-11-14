@@ -2,5 +2,4 @@ Polina 10
 Kirill 4
 Max 10
 Poul 10
-Tom 5
-Karole 9
+
